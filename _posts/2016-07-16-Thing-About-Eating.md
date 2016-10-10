@@ -3,6 +3,9 @@ layout: post
 title:  "「食事」中的那些事儿"
 description: 看「食事」是比较亲切的。这种亲切在于，没有大的立意，入目所见都是很平凡的，关乎于腹中，关乎于餍足，朴素的幸福感，平凡人的希求。
 image:  xiaolongbao.JPG
+introduction: "初唐四杰，悠悠江河。"
+
+
 ---
 
 
