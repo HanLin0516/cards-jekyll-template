@@ -2,17 +2,14 @@
 layout: post
 title: "江河：写诗的人"
 date: 2016-10-10 19:07:47
-description: ""
+description: "只是千年以后有个痴痴的人，想翻开诗篇看看诗人的命运。就这样溯洄从之，掬起了一捧江河的水。"
 main-class: 'essay'
 color: '#7D669E'
-tags:
-- essay
-
-image: "/assets/img/por-que-usar-svg/coloridos.jpg"
 categories:
 - "essay"
 twitter_text: "江河：写诗的人"
 introduction: "初唐四杰，悠悠江河。"
+
 
 
 
