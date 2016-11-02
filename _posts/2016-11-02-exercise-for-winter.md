@@ -125,7 +125,7 @@ introduction: "孟浩然宿业师山房待丁大不至、李白子夜吴歌、�
 
 
 
-![](http://oace90gvt.bkt.clouddn.com/%E9%9B%AA%E5%A4%9C%E8%AE%BF%E6%88%B4.)
+![](http://oace90gvt.bkt.clouddn.com/%E9%9B%AA%E5%A4%9C%E8%AE%BF%E6%88%B4.jpg)
 
 
 
