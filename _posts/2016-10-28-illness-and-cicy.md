@@ -3,10 +3,7 @@ layout: post
 title: "病中琐记 · 起"
 date: 2016-10-28 19:07:47
 description: "人类情感的联结，其实相当简单。在她很小的时候，给了她一个名字，带回了一个家。给她一个公民的身份，交织在彼此的命运里。喜与怒，哀与乐。"
-main-class: 'essay'
 color: '#7D669E'
-categories:
-- "essay"
 twitter_text: "病中琐记 · 起"
 introduction: "醒来，连日的阴雨微微露出了一点笑颜，但晴光转瞬即逝。"
 
@@ -62,7 +59,6 @@ C 君的毛软软的，就像一蓬棕红色的棉花，手指顺着毛毛穿插
 下午，给母上去电话，母上答：C 君病危，很严重，胰腺炎和肠胃炎，医生开了病危通知。
 
 我在外，几度欲落泪。
-
 
 ---
 ![C 君](http://upload-images.jianshu.io/upload_images/2013519-68f971e201ef5e90.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
