@@ -3,10 +3,7 @@ layout: post
 title:  "2016学习自传"
 date: 2016-12-30 22:18:10
 description: "也不想找时间线了，直接说说2016年最大的收获吧。"
-main-class: ''
 color: '#7D669E'
-categories:
-- ""
 twitter_text: "寒来暑往，秋收冬藏"
 introduction: "寒来暑往，秋收冬藏"
 
