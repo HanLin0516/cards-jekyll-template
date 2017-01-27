@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "修辞：与君同是伤心人"
-date: 2017-1-19 14:55
+date: 2016-11-19 14:55
 description: "人类在记忆长空中试图抓住流水，即使徒劳，也想试一试。"
 main-class: 'essay'
 color: '#7D669E'
