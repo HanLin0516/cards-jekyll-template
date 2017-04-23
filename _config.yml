@@ -28,7 +28,7 @@ compress_html:
 # For external links add external: true
 links:
   - title: 朱阁
-    url: /
+    url: 
   - title: 流光
     url: /series
   - title: 纸签
