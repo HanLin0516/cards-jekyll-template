@@ -26,14 +26,14 @@ compress_html:
 
 # Links to include in menu navigation
 # For external links add external: true
-links: /
+links:
   - title: 朱阁
     url: /
-  - title: 流光
+  - title: 柴扉
     url: /series
   - title: 纸签
     url: /tags
-  - title: 柴扉
+  - title: 凋寒
     url: /about
 
 # exclude my node related stuff
