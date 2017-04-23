@@ -26,9 +26,9 @@ compress_html:
 
 # Links to include in menu navigation
 # For external links add external: true
-links:
+links:https://hanlin0516.github.io/
   - title: 朱阁
-    url: 
+    url: /
   - title: 流光
     url: /series
   - title: 纸签
