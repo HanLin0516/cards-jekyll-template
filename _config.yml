@@ -2,7 +2,7 @@
 title: 不成文
 description: 追兮其犹未远，何惶惑而多嗟。
 baseurl:  # the subpath of your site, e.g. /blog
-url: / # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://hanlin0516.github.io # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: 凋寒
@@ -26,7 +26,7 @@ compress_html:
 
 # Links to include in menu navigation
 # For external links add external: true
-links:
+links: 
   - title: 朱阁
     url: /
   - title: 柴扉
