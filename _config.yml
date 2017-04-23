@@ -28,13 +28,13 @@ compress_html:
 # For external links add external: true
 links:
   - title: 朱阁
-    url: /
+    url: hanlin0516.github.io/about
   - title: 流光
-    url: /series
+    url: hanlin0516.github.io/series
   - title: 纸签
-    url: /tags
+    url: hanlin0516.github.io/tags
   - title: 柴扉
-    url: /about
+    url: hanlin0516.github.io/about
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
